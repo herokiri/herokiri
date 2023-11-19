@@ -4,11 +4,11 @@
 <a href="https://t.me/Herokiri">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="https://github.com/herokiri">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+<a href="https://www.codewars.com/users/herokiri">
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
 </a>
-<a href="https://github.com/herokiri">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+<a href="https://leetcode.com/herokiri/">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 </a>
 
 </div>
