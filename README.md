@@ -1,5 +1,13 @@
 ### Hi there, i`m Sergey Sheryaev 👋
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I love frontend and backend web application development.
+
+- :seedling: I am a 3rd year student of software engineering at dstu
+
+- :zap: In my free time, I solve problems on Leetcode or codewars and read tech articles.
+
+
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="display: block; opacity: 1;">
 
 <div align="justify">
@@ -14,9 +22,6 @@
 </a>
 
 </div>
-<p></p>
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 ## My favorite tools and technologies ⚙️
 
