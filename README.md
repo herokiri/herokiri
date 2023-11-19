@@ -24,7 +24,7 @@ welcome to my GitHub Page. I am Sergey Sheryaev and now Computer engineering stu
 
 > Tools and technologies that I have worked with and am interested in
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,git,html,css,nestjs,postman&perline=3)](https://skillicons.dev)
 
 
 ## Github stats 📊
