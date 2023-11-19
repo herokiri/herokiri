@@ -29,6 +29,6 @@ welcome to my GitHub Page. I am Sergey Sheryaev and now Computer engineering stu
 
 ## Github stats 📊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herokiri&layout=compact)
 
 
