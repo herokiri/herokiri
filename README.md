@@ -15,10 +15,8 @@
 
 </div>
 <p></p>
-<p align="justify">
-welcome to my GitHub Page. I am Sergey Sheryaev and now Computer engineering student
-  
-</p>
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 ## My favorite tools and technologies ⚙️
 
