@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![image](https://github.com/herokiri/herokiri/assets/101250956/d867612b-5951-4c9b-8fa5-3a22ef3f730d)
+<h1>My skills : </h1>
 
 <div id="header" align="center">
   <a href="https://t.me/Herokiri">
