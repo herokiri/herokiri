@@ -30,8 +30,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,redux,git,html,css,nestjs,webpack,postman&perline=6)](https://skillicons.dev)
 
 
-## Github stats 📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herokiri&layout=compact)
-
-
