@@ -220,7 +220,7 @@ welcome to my GitHub Page. I am Sergey Sheryaev and now Computer engineering stu
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="display: block; opacity: 1;">
 
 <div>
   <h1>My skills : </h1>
