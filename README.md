@@ -1,9 +1,8 @@
 ### Hi there, i`m Sergey Sheryaev 👋
-<div align="justify">
-  
+
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="display: block; opacity: 1;">
 
-
+<div align="justify">
 <a href="https://t.me/Herokiri">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
